@@ -1,0 +1,12 @@
+.postList_wrapper{
+    display: flex;
+    gap: 1rem;
+    padding: 2rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
+.userTitle{
+    margin-top: 2rem;
+    padding-left: 2rem;
+}

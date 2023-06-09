@@ -1,0 +1,53 @@
+#components-form-demo-normal-login .login-form {
+    max-width: 300px;
+}
+
+#components-form-demo-normal-login .login-form-forgot {
+    float: right;
+}
+
+#components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+    float: left;
+}
+
+#components-form-demo-normal-login .login-form-button {
+    width: 100%;
+}
+
+.main_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.signIn_button {
+    width: 90%;
+    margin-top: 0.5rem;
+    background-color: black !important;
+}
+
+.do_not_account {
+    text-align: center;
+}
+
+.title {
+    padding-top: .5rem;
+    font-weight: 500;
+}
+
+.input {
+    margin: 0;
+    padding-bottom: 0.5rem;
+}
+
+.button_container{
+    display: flex;
+    width: 100%;
+}
+
+.button_wrapper{
+    width: 50%;
+
+}

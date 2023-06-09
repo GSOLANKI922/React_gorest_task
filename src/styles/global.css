@@ -1,0 +1,27 @@
+.header_Container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #dddddd !important;
+}
+
+.footer_component {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.icon {
+    margin-inline: 0.7rem;
+}
+
+.layout {
+    height: 77vh;
+}
+
+.Input_gender_status,
+.input_first_last {
+    display: flex;
+    justify-content: space-between;
+}
+
